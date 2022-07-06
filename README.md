@@ -1,4 +1,4 @@
-# calculate
+# Calculate price comparison
 
 A new Flutter project.
 
